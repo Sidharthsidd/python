@@ -11,7 +11,8 @@ print(mystring3[3:])  #start and go to the last of the string by appliing colon
 print(mystring3[:3]) #start from the leaving first 3 letter 
 print(mystring3[3:6]) #start from 3 and end for 6 
 print(mystring3[::4]) #step size jump 2  letter means a even number 
-print(mystring3[::-1]) #reverse and for print from last to first 
+print(mystring3[::-1]) #reverse and for print from last to first
+
 
 
 
