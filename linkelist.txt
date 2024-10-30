@@ -53,3 +53,5 @@ insertion
 possibibilty of insertion => at start => at last 
 deletion :
 possiblibiltyof deletion => middle > last
+
+
