@@ -1,0 +1,55 @@
+#mysirg   channel youtube 
+
+Agenda  single linked list 
+1.what is list 
+2.what is a node 
+3.defining a node 
+4.singly linked list 
+5.elementory operations 
+
+
+list a linear collection of data items also known as list items 
+
+
+example 1:list of marks 
+30,32,30,35,42,38
+
+
+
+
+example 2:lsjt of city names 
+"bhopal","delhi","pune","indore","itarsi","jaipur","mumbai","jaipur","gwalior"
+
+
+
+
+example 3:list of employee 
+100       101       102      103       104  
+"atul"   "savitha"  "akshay"  "shiivam"  "jenil "
+
+//what is a node ?
+example 1:list of amrks 
+30 10 20 40
+
+to store every value in a variable list can be have n  umber of values so to solve this type of issue 
+to make a node object wfirst make a collection class  and than make a def init function to define the sll object 
+
+class Node 
+def __inti__(self.item=None ,next=None):
+self.item =item
+self.necxt =next 
+
+
+how is the single linked list ;
+
+A singly linked list is a type of data structure that consists of a sequence of nodes, where each node stores two elements:
+
+Data: The actual value that the node holds.
+Pointer (or reference): A reference to the next node in the sequence.
+
+
+operation inn sinlglyg linked list 
+insertion 
+possibibilty of insertion => at start => at last 
+deletion :
+possiblibiltyof deletion => middle > last
